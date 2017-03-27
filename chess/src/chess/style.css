@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Chess';
+	src: url('chessfont.ttf');
+}
+
+.label {
+	-fx-font-family: 'Chess';
+	-fx-font-size: 70;
+}
